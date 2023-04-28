@@ -8,7 +8,7 @@ import random
 
 
 # Set page title
-st.set_page_config(page_title="Demo Streamlit App")
+st.set_page_config(page_title="Demo Streamlit APP")
 
 # Create sidebar
 st.sidebar.title("Menu")
